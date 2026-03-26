@@ -70,7 +70,7 @@ from the main package directory. This will build a Julia `sysimage` to speed up 
 Atomic data
 -----------
 
-Aurora offers a simple interface to download, read, process and plot atomic data from the Atomic Data and Structure Analysis (ADAS) database, particularly through the OPEN-ADAS website: www.open-adas.ac.uk . ADAS data files can be fetched remotely and stored within the Aurora distribution directory, or users may choose to fetch ADAS files from a chosen, pre-existing directory by setting
+Aurora offers a simple interface to download, read, process and plot atomic data from the Atomic Data and Structure Analysis (ADAS) database, particularly through the OPEN-ADAS website: https://open.adas.ac.uk . ADAS data files can be fetched remotely and stored within the Aurora distribution directory, or users may choose to fetch ADAS files from a chosen, pre-existing directory by setting
 
     export AURORA_ADAS_DIR=my_adas_directory
     
